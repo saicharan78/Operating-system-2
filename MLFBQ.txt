@@ -1,0 +1,106 @@
+First Level Queue contents (DECIMAL)
+9
+8
+Second Level Queue contents (DECIMAL)
+Third Level Queue contents (DECIMAL)
+3
+1
+Fourth Level Queue contents (DECIMAL)
+
+
+First Level Queue contents (DECIMAL)
+17
+Second Level Queue contents (DECIMAL)
+Third Level Queue contents (DECIMAL)
+Fourth Level Queue contents (DECIMAL)
+13
+16
+
+
+First Level Queue contents (DECIMAL)
+25
+26
+Second Level Queue contents (DECIMAL)
+24
+Third Level Queue contents (DECIMAL)
+Fourth Level Queue contents (DECIMAL)
+16
+17
+
+
+First Level Queue contents (DECIMAL)
+31
+32
+33
+34
+Second Level Queue contents (DECIMAL)
+Third Level Queue contents (DECIMAL)
+Fourth Level Queue contents (DECIMAL)
+24
+26
+
+
+First Level Queue contents (DECIMAL)
+49
+47
+Second Level Queue contents (DECIMAL)
+Third Level Queue contents (DECIMAL)
+31
+Fourth Level Queue contents (DECIMAL)
+24
+26
+
+
+First Level Queue contents (DECIMAL)
+61
+Second Level Queue contents (DECIMAL)
+Third Level Queue contents (DECIMAL)
+59
+56
+Fourth Level Queue contents (DECIMAL)
+
+
+First Level Queue contents (DECIMAL)
+69
+70
+68
+Second Level Queue contents (DECIMAL)
+Third Level Queue contents (DECIMAL)
+Fourth Level Queue contents (DECIMAL)
+62
+66
+
+
+First Level Queue contents (DECIMAL)
+Second Level Queue contents (DECIMAL)
+Third Level Queue contents (DECIMAL)
+72
+77
+Fourth Level Queue contents (DECIMAL)
+62
+66
+
+
+First Level Queue contents (DECIMAL)
+87
+86
+Second Level Queue contents (DECIMAL)
+Third Level Queue contents (DECIMAL)
+83
+Fourth Level Queue contents (DECIMAL)
+77
+80
+
+
+First Level Queue contents (DECIMAL)
+98
+99
+96
+97
+Second Level Queue contents (DECIMAL)
+Third Level Queue contents (DECIMAL)
+Fourth Level Queue contents (DECIMAL)
+80
+83
+
+
